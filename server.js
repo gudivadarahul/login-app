@@ -43,4 +43,4 @@ require('./app/routes.js')(app, passport);
 
 // launch (Finally...)
 app.listen(port);
-console.log('And the winners are... ' + port);
+console.log('The magic happens at:  ' + port);
