@@ -1,0 +1,189 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'C:\\Program Files\\nodejs\\node.exe',
+1 verbose cli   'C:\\Users\\rahul\\AppData\\Roaming\\npm\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'cache',
+1 verbose cli   'clean' ]
+2 info using npm@4.0.3
+3 info using node@v6.9.1
+4 silly ls normalized .
+5 silly gentlyRm C:\Users\rahul\AppData\Roaming\npm-cache\_locks is being purged
+6 verbose gentlyRm don't care about contents; nuking C:\Users\rahul\AppData\Roaming\npm-cache\_locks
+7 silly gentlyRm C:\Users\rahul\AppData\Roaming\npm-cache\async is being purged
+8 verbose gentlyRm don't care about contents; nuking C:\Users\rahul\AppData\Roaming\npm-cache\async
+9 silly gentlyRm C:\Users\rahul\AppData\Roaming\npm-cache\bluebird is being purged
+10 verbose gentlyRm don't care about contents; nuking C:\Users\rahul\AppData\Roaming\npm-cache\bluebird
+11 silly gentlyRm C:\Users\rahul\AppData\Roaming\npm-cache\bson is being purged
+12 verbose gentlyRm don't care about contents; nuking C:\Users\rahul\AppData\Roaming\npm-cache\bson
+13 silly gentlyRm C:\Users\rahul\AppData\Roaming\npm-cache\connect-redis is being purged
+14 verbose gentlyRm don't care about contents; nuking C:\Users\rahul\AppData\Roaming\npm-cache\connect-redis
+15 silly gentlyRm C:\Users\rahul\AppData\Roaming\npm-cache\core-util-is is being purged
+16 verbose gentlyRm don't care about contents; nuking C:\Users\rahul\AppData\Roaming\npm-cache\core-util-is
+17 silly gentlyRm C:\Users\rahul\AppData\Roaming\npm-cache\debug is being purged
+18 verbose gentlyRm don't care about contents; nuking C:\Users\rahul\AppData\Roaming\npm-cache\debug
+19 silly gentlyRm C:\Users\rahul\AppData\Roaming\npm-cache\double-ended-queue is being purged
+20 verbose gentlyRm don't care about contents; nuking C:\Users\rahul\AppData\Roaming\npm-cache\double-ended-queue
+21 silly gentlyRm C:\Users\rahul\AppData\Roaming\npm-cache\es6-promise is being purged
+22 verbose gentlyRm don't care about contents; nuking C:\Users\rahul\AppData\Roaming\npm-cache\es6-promise
+23 silly gentlyRm C:\Users\rahul\AppData\Roaming\npm-cache\hooks-fixed is being purged
+24 verbose gentlyRm don't care about contents; nuking C:\Users\rahul\AppData\Roaming\npm-cache\hooks-fixed
+25 silly gentlyRm C:\Users\rahul\AppData\Roaming\npm-cache\isarray is being purged
+26 verbose gentlyRm don't care about contents; nuking C:\Users\rahul\AppData\Roaming\npm-cache\isarray
+27 silly gentlyRm C:\Users\rahul\AppData\Roaming\npm-cache\kareem is being purged
+28 verbose gentlyRm don't care about contents; nuking C:\Users\rahul\AppData\Roaming\npm-cache\kareem
+29 silly gentlyRm C:\Users\rahul\AppData\Roaming\npm-cache\kerberos is being purged
+30 verbose gentlyRm don't care about contents; nuking C:\Users\rahul\AppData\Roaming\npm-cache\kerberos
+31 silly gentlyRm C:\Users\rahul\AppData\Roaming\npm-cache\lodash is being purged
+32 verbose gentlyRm don't care about contents; nuking C:\Users\rahul\AppData\Roaming\npm-cache\lodash
+33 silly gentlyRm C:\Users\rahul\AppData\Roaming\npm-cache\mongodb is being purged
+34 verbose gentlyRm don't care about contents; nuking C:\Users\rahul\AppData\Roaming\npm-cache\mongodb
+35 silly gentlyRm C:\Users\rahul\AppData\Roaming\npm-cache\mongodb-core is being purged
+36 verbose gentlyRm don't care about contents; nuking C:\Users\rahul\AppData\Roaming\npm-cache\mongodb-core
+37 silly gentlyRm C:\Users\rahul\AppData\Roaming\npm-cache\mongoose is being purged
+38 verbose gentlyRm don't care about contents; nuking C:\Users\rahul\AppData\Roaming\npm-cache\mongoose
+39 silly gentlyRm C:\Users\rahul\AppData\Roaming\npm-cache\mpath is being purged
+40 verbose gentlyRm don't care about contents; nuking C:\Users\rahul\AppData\Roaming\npm-cache\mpath
+41 silly gentlyRm C:\Users\rahul\AppData\Roaming\npm-cache\mpromise is being purged
+42 verbose gentlyRm don't care about contents; nuking C:\Users\rahul\AppData\Roaming\npm-cache\mpromise
+43 silly gentlyRm C:\Users\rahul\AppData\Roaming\npm-cache\mquery is being purged
+44 verbose gentlyRm don't care about contents; nuking C:\Users\rahul\AppData\Roaming\npm-cache\mquery
+45 silly gentlyRm C:\Users\rahul\AppData\Roaming\npm-cache\ms is being purged
+46 verbose gentlyRm don't care about contents; nuking C:\Users\rahul\AppData\Roaming\npm-cache\ms
+47 silly gentlyRm C:\Users\rahul\AppData\Roaming\npm-cache\muri is being purged
+48 verbose gentlyRm don't care about contents; nuking C:\Users\rahul\AppData\Roaming\npm-cache\muri
+49 silly gentlyRm C:\Users\rahul\AppData\Roaming\npm-cache\nan is being purged
+50 verbose gentlyRm don't care about contents; nuking C:\Users\rahul\AppData\Roaming\npm-cache\nan
+51 silly gentlyRm C:\Users\rahul\AppData\Roaming\npm-cache\npm is being purged
+52 verbose gentlyRm don't care about contents; nuking C:\Users\rahul\AppData\Roaming\npm-cache\npm
+53 silly gentlyRm C:\Users\rahul\AppData\Roaming\npm-cache\npm-install-missing is being purged
+54 verbose gentlyRm don't care about contents; nuking C:\Users\rahul\AppData\Roaming\npm-cache\npm-install-missing
+55 silly gentlyRm C:\Users\rahul\AppData\Roaming\npm-cache\readable-stream is being purged
+56 verbose gentlyRm don't care about contents; nuking C:\Users\rahul\AppData\Roaming\npm-cache\readable-stream
+57 silly gentlyRm C:\Users\rahul\AppData\Roaming\npm-cache\redis is being purged
+58 verbose gentlyRm don't care about contents; nuking C:\Users\rahul\AppData\Roaming\npm-cache\redis
+59 silly gentlyRm C:\Users\rahul\AppData\Roaming\npm-cache\redis-commands is being purged
+60 verbose gentlyRm don't care about contents; nuking C:\Users\rahul\AppData\Roaming\npm-cache\redis-commands
+61 silly gentlyRm C:\Users\rahul\AppData\Roaming\npm-cache\redis-parser is being purged
+62 verbose gentlyRm don't care about contents; nuking C:\Users\rahul\AppData\Roaming\npm-cache\redis-parser
+63 silly gentlyRm C:\Users\rahul\AppData\Roaming\npm-cache\regexp-clone is being purged
+64 verbose gentlyRm don't care about contents; nuking C:\Users\rahul\AppData\Roaming\npm-cache\regexp-clone
+65 silly gentlyRm C:\Users\rahul\AppData\Roaming\npm-cache\registry.npmjs.org is being purged
+66 verbose gentlyRm don't care about contents; nuking C:\Users\rahul\AppData\Roaming\npm-cache\registry.npmjs.org
+67 silly gentlyRm C:\Users\rahul\AppData\Roaming\npm-cache\sliced is being purged
+68 verbose gentlyRm don't care about contents; nuking C:\Users\rahul\AppData\Roaming\npm-cache\sliced
+69 silly gentlyRm C:\Users\rahul\AppData\Roaming\npm-cache\string_decoder is being purged
+70 verbose gentlyRm don't care about contents; nuking C:\Users\rahul\AppData\Roaming\npm-cache\string_decoder
+71 silly vacuum-fs purging C:\Users\rahul\AppData\Roaming\npm-cache\_locks
+72 silly vacuum-fs purging C:\Users\rahul\AppData\Roaming\npm-cache\async
+73 silly vacuum-fs purging C:\Users\rahul\AppData\Roaming\npm-cache\bluebird
+74 silly vacuum-fs purging C:\Users\rahul\AppData\Roaming\npm-cache\bson
+75 silly vacuum-fs purging C:\Users\rahul\AppData\Roaming\npm-cache\connect-redis
+76 silly vacuum-fs purging C:\Users\rahul\AppData\Roaming\npm-cache\core-util-is
+77 silly vacuum-fs purging C:\Users\rahul\AppData\Roaming\npm-cache\debug
+78 silly vacuum-fs purging C:\Users\rahul\AppData\Roaming\npm-cache\double-ended-queue
+79 silly vacuum-fs purging C:\Users\rahul\AppData\Roaming\npm-cache\es6-promise
+80 silly vacuum-fs purging C:\Users\rahul\AppData\Roaming\npm-cache\hooks-fixed
+81 silly vacuum-fs purging C:\Users\rahul\AppData\Roaming\npm-cache\kareem
+82 silly vacuum-fs purging C:\Users\rahul\AppData\Roaming\npm-cache\isarray
+83 silly vacuum-fs purging C:\Users\rahul\AppData\Roaming\npm-cache\kerberos
+84 silly vacuum-fs purging C:\Users\rahul\AppData\Roaming\npm-cache\lodash
+85 silly vacuum-fs purging C:\Users\rahul\AppData\Roaming\npm-cache\mongodb
+86 silly vacuum-fs purging C:\Users\rahul\AppData\Roaming\npm-cache\mongodb-core
+87 silly vacuum-fs purging C:\Users\rahul\AppData\Roaming\npm-cache\mongoose
+88 silly vacuum-fs purging C:\Users\rahul\AppData\Roaming\npm-cache\mpath
+89 silly vacuum-fs purging C:\Users\rahul\AppData\Roaming\npm-cache\mpromise
+90 silly vacuum-fs purging C:\Users\rahul\AppData\Roaming\npm-cache\mquery
+91 silly vacuum-fs purging C:\Users\rahul\AppData\Roaming\npm-cache\ms
+92 silly vacuum-fs purging C:\Users\rahul\AppData\Roaming\npm-cache\muri
+93 silly vacuum-fs purging C:\Users\rahul\AppData\Roaming\npm-cache\nan
+94 silly vacuum-fs purging C:\Users\rahul\AppData\Roaming\npm-cache\npm
+95 silly vacuum-fs purging C:\Users\rahul\AppData\Roaming\npm-cache\npm-install-missing
+96 silly vacuum-fs purging C:\Users\rahul\AppData\Roaming\npm-cache\readable-stream
+97 silly vacuum-fs purging C:\Users\rahul\AppData\Roaming\npm-cache\redis
+98 silly vacuum-fs purging C:\Users\rahul\AppData\Roaming\npm-cache\redis-commands
+99 silly vacuum-fs purging C:\Users\rahul\AppData\Roaming\npm-cache\redis-parser
+100 silly vacuum-fs purging C:\Users\rahul\AppData\Roaming\npm-cache\regexp-clone
+101 silly vacuum-fs purging C:\Users\rahul\AppData\Roaming\npm-cache\registry.npmjs.org
+102 silly vacuum-fs purging C:\Users\rahul\AppData\Roaming\npm-cache\sliced
+103 silly vacuum-fs purging C:\Users\rahul\AppData\Roaming\npm-cache\string_decoder
+104 silly vacuum-fs quitting because other entries in C:\Users\rahul\AppData\Roaming\npm-cache
+105 silly vacuum-fs quitting because other entries in C:\Users\rahul\AppData\Roaming\npm-cache
+106 silly vacuum-fs quitting because other entries in C:\Users\rahul\AppData\Roaming\npm-cache
+107 silly vacuum-fs quitting because other entries in C:\Users\rahul\AppData\Roaming\npm-cache
+108 silly vacuum-fs quitting because other entries in C:\Users\rahul\AppData\Roaming\npm-cache
+109 silly vacuum-fs removing C:\Users\rahul\AppData\Roaming\npm-cache
+110 silly vacuum-fs removing C:\Users\rahul\AppData\Roaming\npm-cache
+111 silly vacuum-fs removing C:\Users\rahul\AppData\Roaming\npm-cache
+112 silly vacuum-fs removing C:\Users\rahul\AppData\Roaming\npm-cache
+113 silly vacuum-fs removing C:\Users\rahul\AppData\Roaming\npm-cache
+114 silly vacuum-fs removing C:\Users\rahul\AppData\Roaming\npm-cache
+115 silly vacuum-fs removing C:\Users\rahul\AppData\Roaming\npm-cache
+116 silly vacuum-fs removing C:\Users\rahul\AppData\Roaming\npm-cache
+117 silly vacuum-fs removing C:\Users\rahul\AppData\Roaming\npm-cache
+118 silly vacuum-fs removing C:\Users\rahul\AppData\Roaming\npm-cache
+119 silly vacuum-fs removing C:\Users\rahul\AppData\Roaming\npm-cache
+120 silly vacuum-fs removing C:\Users\rahul\AppData\Roaming\npm-cache
+121 silly vacuum-fs removing C:\Users\rahul\AppData\Roaming\npm-cache
+122 silly vacuum-fs removing C:\Users\rahul\AppData\Roaming\npm-cache
+123 silly vacuum-fs removing C:\Users\rahul\AppData\Roaming\npm-cache
+124 silly vacuum-fs removing C:\Users\rahul\AppData\Roaming\npm-cache
+125 silly vacuum-fs removing C:\Users\rahul\AppData\Roaming\npm-cache
+126 silly vacuum-fs removing C:\Users\rahul\AppData\Roaming\npm-cache
+127 silly vacuum-fs removing C:\Users\rahul\AppData\Roaming\npm-cache
+128 silly vacuum-fs removing C:\Users\rahul\AppData\Roaming\npm-cache
+129 silly vacuum-fs removing C:\Users\rahul\AppData\Roaming\npm-cache
+130 silly vacuum-fs removing C:\Users\rahul\AppData\Roaming\npm-cache
+131 silly vacuum-fs removing C:\Users\rahul\AppData\Roaming\npm-cache
+132 silly vacuum-fs removing C:\Users\rahul\AppData\Roaming\npm-cache
+133 silly vacuum-fs removing C:\Users\rahul\AppData\Roaming\npm-cache
+134 silly vacuum-fs removing C:\Users\rahul\AppData\Roaming\npm-cache
+135 silly vacuum-fs removing C:\Users\rahul\AppData\Roaming\npm-cache
+136 silly vacuum-fs removing C:\Users\rahul\AppData\Roaming\npm-cache
+137 silly vacuum-fs unable to remove C:\Users\rahul\AppData\Roaming\npm-cache due to EPERM: operation not permitted, rmdir 'C:\Users\rahul\AppData\Roaming\npm-cache'
+138 silly vacuum-fs unable to remove C:\Users\rahul\AppData\Roaming\npm-cache due to EPERM: operation not permitted, rmdir 'C:\Users\rahul\AppData\Roaming\npm-cache'
+139 silly vacuum-fs unable to remove C:\Users\rahul\AppData\Roaming\npm-cache due to EPERM: operation not permitted, rmdir 'C:\Users\rahul\AppData\Roaming\npm-cache'
+140 silly vacuum-fs unable to remove C:\Users\rahul\AppData\Roaming\npm-cache due to EPERM: operation not permitted, rmdir 'C:\Users\rahul\AppData\Roaming\npm-cache'
+141 silly vacuum-fs unable to remove C:\Users\rahul\AppData\Roaming\npm-cache due to EPERM: operation not permitted, rmdir 'C:\Users\rahul\AppData\Roaming\npm-cache'
+142 silly vacuum-fs unable to remove C:\Users\rahul\AppData\Roaming\npm-cache due to EPERM: operation not permitted, rmdir 'C:\Users\rahul\AppData\Roaming\npm-cache'
+143 silly vacuum-fs unable to remove C:\Users\rahul\AppData\Roaming\npm-cache due to EPERM: operation not permitted, rmdir 'C:\Users\rahul\AppData\Roaming\npm-cache'
+144 silly vacuum-fs unable to remove C:\Users\rahul\AppData\Roaming\npm-cache due to EPERM: operation not permitted, rmdir 'C:\Users\rahul\AppData\Roaming\npm-cache'
+145 silly vacuum-fs unable to remove C:\Users\rahul\AppData\Roaming\npm-cache due to EPERM: operation not permitted, rmdir 'C:\Users\rahul\AppData\Roaming\npm-cache'
+146 silly vacuum-fs unable to remove C:\Users\rahul\AppData\Roaming\npm-cache due to EPERM: operation not permitted, rmdir 'C:\Users\rahul\AppData\Roaming\npm-cache'
+147 silly vacuum-fs unable to remove C:\Users\rahul\AppData\Roaming\npm-cache due to EPERM: operation not permitted, rmdir 'C:\Users\rahul\AppData\Roaming\npm-cache'
+148 silly vacuum-fs quitting because lost the race to remove C:\Users\rahul\AppData\Roaming\npm-cache
+149 silly vacuum-fs quitting because lost the race to remove C:\Users\rahul\AppData\Roaming\npm-cache
+150 silly vacuum-fs quitting because lost the race to remove C:\Users\rahul\AppData\Roaming\npm-cache
+151 silly vacuum-fs quitting because lost the race to remove C:\Users\rahul\AppData\Roaming\npm-cache
+152 silly vacuum-fs quitting because lost the race to remove C:\Users\rahul\AppData\Roaming\npm-cache
+153 silly vacuum-fs quitting because lost the race to remove C:\Users\rahul\AppData\Roaming\npm-cache
+154 silly vacuum-fs quitting because lost the race to remove C:\Users\rahul\AppData\Roaming\npm-cache
+155 silly vacuum-fs quitting because lost the race to remove C:\Users\rahul\AppData\Roaming\npm-cache
+156 silly vacuum-fs quitting because lost the race to remove C:\Users\rahul\AppData\Roaming\npm-cache
+157 silly vacuum-fs quitting because lost the race to remove C:\Users\rahul\AppData\Roaming\npm-cache
+158 silly vacuum-fs quitting because lost the race to remove C:\Users\rahul\AppData\Roaming\npm-cache
+159 silly vacuum-fs quitting because lost the race to remove C:\Users\rahul\AppData\Roaming\npm-cache
+160 silly vacuum-fs quitting because lost the race to remove C:\Users\rahul\AppData\Roaming\npm-cache
+161 silly vacuum-fs quitting because lost the race to remove C:\Users\rahul\AppData\Roaming\npm-cache
+162 silly vacuum-fs quitting because lost the race to remove C:\Users\rahul\AppData\Roaming\npm-cache
+163 silly vacuum-fs quitting because other entries in C:\Users\rahul\AppData\Roaming
+164 silly vacuum-fs quitting because other entries in C:\Users\rahul\AppData\Roaming
+165 verbose stack Error: EPERM: operation not permitted, rmdir 'C:\Users\rahul\AppData\Roaming\npm-cache'
+165 verbose stack     at Error (native)
+166 verbose cwd C:\Users\rahul\Programming\login-app\login-app
+167 error Windows_NT 10.0.14393
+168 error argv "C:\\Program Files\\nodejs\\node.exe" "C:\\Users\\rahul\\AppData\\Roaming\\npm\\node_modules\\npm\\bin\\npm-cli.js" "cache" "clean"
+169 error node v6.9.1
+170 error npm  v4.0.3
+171 error path C:\Users\rahul\AppData\Roaming\npm-cache
+172 error code EPERM
+173 error errno -4048
+174 error syscall rmdir
+175 error Error: EPERM: operation not permitted, rmdir 'C:\Users\rahul\AppData\Roaming\npm-cache'
+175 error     at Error (native)
+175 error  { Error: EPERM: operation not permitted, rmdir 'C:\Users\rahul\AppData\Roaming\npm-cache'
+175 error     at Error (native)
+175 error   errno: -4048,
+175 error   code: 'EPERM',
+175 error   syscall: 'rmdir',
+175 error   path: 'C:\\Users\\rahul\\AppData\\Roaming\\npm-cache' }
+176 error Please try running this command again as root/Administrator.
+177 verbose exit [ -4048, true ]
